@@ -1,2 +1,2 @@
 # zhouxm.github.io
-Home
+Home page
